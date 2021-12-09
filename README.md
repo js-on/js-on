@@ -18,3 +18,6 @@
 ### Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Nim](https://img.shields.io/static/v1?style=for-the-badge&message=Nim&color=ffe953&logo=Nim&logoColor=000000&label=)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=bash&color=2577b1&logo=shell&logoColor=ffffff&label=)
+
+> **PS**: If you're from Sweden, like what I do and offer a remote job in the fields of Cyber Security (IR, Sec. Eng. or DF), I'd love to hear from you 💙
