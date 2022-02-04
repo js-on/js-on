@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on sCanary, nimVCfind and Synoza.
+- 🔭 I’m currently working on Synoza and primarly on Pucasu.
 - 🌱 I’m currently learning Nim / Security Engineering / Forensics
 - 👯 I’m looking to collaborate on FOSS
 - 🤔 I’m looking for help with Synoza (write a mail to get to know more)
